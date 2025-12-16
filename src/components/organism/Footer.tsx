@@ -1,4 +1,4 @@
-export const footer = () => {
+export const Footer = () => {
     return (
         <>
             <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content p-10">
