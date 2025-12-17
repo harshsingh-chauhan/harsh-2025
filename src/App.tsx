@@ -1,6 +1,6 @@
 
 import './App.css'
-import {Footer} from "./components/organism/Footer.tsx";
+import Footer from "./components/organism/Footer.tsx";
 import {Header} from "./components/organism/Header/Header.tsx";
 
 function App() {
